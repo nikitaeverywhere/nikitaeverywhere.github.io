@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 1300 1300">
-<title>Solidity Icon</title>
-<path fill="currentColor" opacity="0.45" d="M838.8,50.1L642.7,398.5H250.9L446.8,50.1L838.8,50.1"/>
-<path fill="currentColor" opacity="0.6" d="M642.7,398.5h392L838.8,50.1h-392L642.7,398.5z"/>
-<path fill="currentColor" opacity="0.8" d="M446.8,746.8l195.9-348.3L446.8,50.1L250.9,398.5L446.8,746.8z"/>
-<path fill="currentColor" opacity="0.45" d="M448.7,1269.5l196.1-348.5h392l-196.1,348.5H448.7"/>
-<path fill="currentColor" opacity="0.6" d="M644.7,921.1h-392l195.9,348.5h392L644.7,921.1z"/>
-<path fill="currentColor" opacity="0.8" d="M840.7,572.7L644.7,921.1l195.9,348.5l196.1-348.5L840.7,572.7z"/>
-</svg>
